@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String KEY_ITEM_POSITION = "item_position";
     public static final int EDIT_TEXT_CODE= 20;
 
+    //testing
     List<String> items;
     ItemsAdapter itemsAdapter;
     @Override
